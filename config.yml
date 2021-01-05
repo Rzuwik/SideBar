@@ -1,5 +1,5 @@
 name: "&8>> &3SideBar &8<<"
-opis:
+lines:
   - "  "
   - "&8&7Your Nick&8: &3{NICK}"
   - "&8&7Time&8: &3{TIME}"
