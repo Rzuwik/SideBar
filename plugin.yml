@@ -1,0 +1,5 @@
+name: SideBar
+version: 0.1
+main: pl.rzuwik.sidebar.SideBarPlugin
+description: Unkown
+authors: [Rzuwik]

@@ -1,0 +1,7 @@
+name: "&8>> &3SideBar &8<<"
+opis:
+  - "  "
+  - "&8&7Your Nick&8: &3{NICK}"
+  - "&8&7Time&8: &3{TIME}"
+  - "&8&7Online&8: &3{ONLINE}"
+  - "  "
